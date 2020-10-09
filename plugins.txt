@@ -1,0 +1,4 @@
+amazon-ecs:1.37
+git:4.4.4
+git-client:3.5.1
+greenballs:1.15
